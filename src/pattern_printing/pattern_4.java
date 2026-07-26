@@ -18,6 +18,7 @@ public class pattern_4 {
                 System.out.print("*");
             }
             System.out.print("\n");
+
         }
     }
 }
